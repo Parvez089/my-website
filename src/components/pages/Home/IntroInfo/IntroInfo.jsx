@@ -1,7 +1,6 @@
 /** @format */
 
 import React from "react";
-import img from "../../../../image/photo.png";
 
 const IntroInfo = () => {
   return (
